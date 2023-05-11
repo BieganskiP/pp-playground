@@ -1,0 +1,13 @@
+.button {
+  margin-bottom: 200px;
+  padding-block: 15px;
+  text-align: center;
+  background-color: red;
+  display: block;
+  width: 100%;
+
+  text-decoration: none;
+
+  font-size: 5vmin;
+  text-transform: uppercase;
+}

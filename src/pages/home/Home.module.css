@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3em;
+}
+
+.header {
+  text-transform: uppercase;
+}
+
+.list {
+  margin-top: 2em;
+}
+.link {
+  display: block;
+  transition: ease-in 100ms;
+  font-size: 20px;
+}
+.link:hover {
+  font-size: 21px;
+  color: aqua;
+}
